@@ -1,6 +1,6 @@
 // rafceと入力後にタブキーを押します🤗
 import React, { useEffect, useState } from "react";
-import AccessibilityIcon from "@mui/icons-material/Accessibility";
+// import AccessibilityIcon from "@mui/icons-material/Accessibility";
 import AirplanemodeActiveIcon from "@mui/icons-material/AirplanemodeActive";
 // style.module.scssを読み込むには
 // importというものを使い、ファイルを紐づける必要があります🤗
